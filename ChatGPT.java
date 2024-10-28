@@ -8,7 +8,7 @@ import com.google.gson.JsonParser;
 public class ChatGPT {
 
     public static String chatGptEmailOptimization(String message)  throws IOException, InterruptedException, URISyntaxException{
-        String apiKey = "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";  // Replace with your actual API key
+        String apiKey = "Add API Key For ChatGPT";  // Replace with your actual API key
         String apiUrl = "https://api.openai.com/v1/chat/completions";
 
         try {
